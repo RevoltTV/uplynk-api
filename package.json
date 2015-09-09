@@ -1,0 +1,19 @@
+{
+  "name": "uplynk-api",
+  "version": "1.0.0",
+  "description": "Uplynk API Wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -t 5000"
+  },
+  "author": "REVOLTTV (Adrian Sanchezdelc)",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "superagent": "^1.3.0"
+  },
+  "devDependencies": {
+    "assert": "^1.3.0",
+    "mocha": "^2.2.5"
+  }
+}
